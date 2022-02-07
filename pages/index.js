@@ -26,7 +26,7 @@ class Index extends React.Component {
         <Either>
           <EditorContainer router={this.props.router} snippet={this.props.snippet} />
           <p>
-            An unexpected error has occurred. Please{' '}
+            An unexpected error has occurred.  Please Please{' '}
             <u>
               <a href="https://github.com/carbon-app/carbon">file an issue here</a>
             </u>
